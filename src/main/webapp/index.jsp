@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Welcome to CMR Institute of Technology</h2>
 </body>
 </html>
